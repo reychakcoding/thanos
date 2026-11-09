@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/ts3mxylrw9f647580lvcj96t)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> I like Marvel a lot!! I wanted to design Iron Man's helmet but Thanos' Sword seems really cool to design!
+> I like Marvel a lot!! I wanted to design Iron Man's helmet but Thanos' Sword seems really cool to design! I made my project on Plasticity so I put my STEP's editable source as a .plasticity.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
