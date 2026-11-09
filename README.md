@@ -7,4 +7,15 @@ I loved building this! This looks so professional and it's gonna be so cool to p
 <img width="759" height="516" alt="image" src="https://github.com/user-attachments/assets/12483096-efe4-4a43-8715-51e25280902f" />
 <img width="415" height="700" alt="image" src="https://github.com/user-attachments/assets/821826a7-85d8-4df2-b2d1-848ed700c977" />
 <img width="839" height="793" alt="image" src="https://github.com/user-attachments/assets/ec4ca73d-aff2-4be4-a38a-423808861624" />
+BOM:
+
+Metallic Aluminum Spray Paint
+So the blade isn't a colorless hunk of PLA
+2 * $5.98	= $11.96	Amazon	
+Clear Coat
+So the blade doesn't get scratched other than intentional wear/tear
+2	* $5.49 =	$10.98	Amazon	
+Bambu PLA Tough
+Filament, PLA tough so it doesn't break while testing, the sword's gonna be big! $13.64 bc bulk
+3	* $13.64 = $40.92	Bambu lab	
 
